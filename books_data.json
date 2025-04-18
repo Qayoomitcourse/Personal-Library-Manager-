@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Meri Kahani",
+        "author": "Abdul",
+        "year": "2025",
+        "genre": "Kahani",
+        "read": false
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Fiction",
+        "read": true
+    }
+]
